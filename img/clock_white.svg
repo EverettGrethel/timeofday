@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="23"
+   height="23"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Clock_simple_white.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6148">
+      <stop
+         id="stop6150"
+         offset="0"
+         style="stop-color:#ae2fed;stop-opacity:0.95876288;" />
+      <stop
+         id="stop6152"
+         offset="1"
+         style="stop-color:#910000;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#888888"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="10.809653"
+     inkscape:cy="23.571482"
+     inkscape:document-units="px"
+     inkscape:current-layer="g6173"
+     inkscape:window-width="1680"
+     inkscape:window-height="946"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     width="23px"
+     height="23px"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:date>2007.05.28</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Mothmolevna</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     style="display:inline"
+     transform="translate(-230.00005,-148.07649)">
+    <g
+       id="g6173"
+       transform="translate(1.5152288,1.4628182)"
+       style="fill:#ffffff">
+      <path
+         id="path2221"
+         d="M 256.51786,158.83539 C 256.51786,165.07003 251.45786,170.13003 245.22322,170.13003 C 238.98858,170.13003 233.92858,165.07003 233.92858,158.83539 C 233.92858,152.60075 238.98858,147.54075 245.22322,147.54075 C 251.45786,147.54075 256.51786,152.60075 256.51786,158.83539 z "
+         style="fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.16253556;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;opacity:1;stroke-dasharray:none"
+         transform="matrix(0.8126682,0,0,0.8126682,40.714891,29.174561)" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2225"
+         d="M 240.08929,158.52289 L 236.11606,154.50503"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00200105;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2229"
+         d="m 245.70325,152.71868 -5.93191,6.06694"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.67609489;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
