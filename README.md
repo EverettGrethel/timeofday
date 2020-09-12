@@ -1,2 +1,2 @@
 # timeofday
-Link to site: https://github.uconn.edu/pages/edg15102/DMD3475/timeofday/index.html
+Link to site: https://everettgrethel.github.io/timeofday/index.html
